@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Gestao Financeira</string>
+    <string name="login_register">Não tem registro, clique aqui!</string>
+</resources>
